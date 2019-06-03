@@ -1,0 +1,29 @@
+
+#nav a{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: bold;
+    color: #FF0048;
+    margin-right: 10px;
+    padding: 10px;
+    
+    }
+    #nav {
+    white-space: nowrap;
+    text-align: center;
+    text-transform: uppercase;
+    
+    }
+    #nav a {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: #05e1ae;
+    text-transform: uppercase;
+    margin-right: 10px;
+    padding: 10px;
+    }
+    
+    #nav a:hover {
+    color: #22c3c3;
+    text-decoration: none;
+    border-bottom: 1px solid #bc9d6d;
+    }
